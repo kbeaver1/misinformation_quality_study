@@ -17,11 +17,11 @@ responses were collected from 99 participants, who were asked the following ques
 - _What are some reasons you think people believe false ideas circulating online?_
 - _Describe a situation in which supporting friends would be more important than telling the truth._
 
-Thematic and content analysis was performed, and in summary, participants’ views remained mostly unchanged 
-about misinformation before and after an ad. However, participants' responses always increased after being
-show a visual ad vs. an audio-only ad, and in response to Question 3, males are almost 1.5 times as likely
-as females to tell a white lie and protect their friends, whereas females are over 3 times as likely to
-tell the truth over supporting their friends. 
+In summary, participants’ views about misinformation that were captured in written responses before the ad remained
+mostly unchanged after being shown an ad, however participants' responses became longer after being
+show a visual ad vs. an audio-only ad. More interesting was how gender viewed Question 3 differently: 
+Males are almost 1.5 times as likely as females to tell a white lie and protect their friends, whereas 
+females are over 3 times as likely to tell the truth over supporting their friends. 
 
 females
 are approximately 3.25 times more likely than men to tell the truth over supporting their friends, whereas
