@@ -13,24 +13,15 @@ This is my Spring 2025 capstone project. I conducted qualitative analysis for a 
 that created and tested audio and visual advertisements to counteract misinformation. A total of 594 written 
 responses were collected from 99 participants, who were asked the following questions:
 
-- _What are some reasons you think people are attracted to radical groups?_
-- _What are some reasons you think people believe false ideas circulating online?_
-- _Describe a situation in which supporting friends would be more important than telling the truth._
+1. _What are some reasons you think people are attracted to radical groups?_
+2. _What are some reasons you think people believe false ideas circulating online?_
+3. _Describe a situation in which supporting friends would be more important than telling the truth._
 
 In summary, participants’ views about misinformation that were captured in written responses before the ad remained
-mostly unchanged after being shown an ad, however participants' responses became longer after being
-show a visual ad vs. an audio-only ad. More interesting was how gender viewed Question 3 differently: 
-Males are almost 1.5 times as likely as females to tell a white lie and protect their friends, whereas 
-females are over 3 times as likely to tell the truth over supporting their friends. 
-
-females
-are approximately 3.25 times more likely than men to tell the truth over supporting their friends, whereas
-males are approximately 44% more likely than females to protect their friends
-
-Additionally,
-the composite score always increased whenever participants were show an audio-visual ad, whether a control
-or test ad, and when the data was analyzed based on gender instead of ad group, there were slight contrasting
-views in how males and females answered a question.
+mostly unchanged after being shown an ad, but participants' responses became longer after being
+show a visual ad vs. an audio-only ad. What was most interesting and unexpected was how men and women viewed Question 3: 
+Males are 1.4 times as likely as females to tell a white lie and protect their friends, while 
+females are 3.25 times as likely to tell the truth over supporting their friends. 
 
 This repository is organized as a reproducible research compendium. There are three main sources of information: 
 
