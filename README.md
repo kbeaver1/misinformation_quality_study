@@ -1,6 +1,6 @@
 # Overview
 
-This is the repo for my Spring 2025 capstone project. I conducted qualitative analysis for a misinformation pilot study 
+This is the repo for my Spring 2025 capstone project. I conducted a qualitative analysis for a misinformation pilot study 
 that created and tested audio and visual advertisements that could possibly counteract misinformation. A total of 594 written 
 responses were collected from 99 participants, who were asked the following:
 
@@ -14,6 +14,14 @@ show a visual ad compared to an audio-only ad. The most interesting discovery ca
 females are 3.25 times as likely to tell the truth over supporting their friends. 
 
 ![Responses to Question 3 based on gender](analysis/reports/images/gender_responses_Q3.png)
+
+43% of participants spent over 2 hours on social media and 68% of all respondents said they received 68% of their news from 
+social media, whereas 28% said they received most of their news from social media, which shows that content creators who 
+spread misinformation can have a strong influence on their followers.
+
+![Time Spent of Social Media](analysis/reports/images/time_spent_on_social_media.png) 
+
+![Gathers News From Social Media](analysis/reports/images/gathers_news_from_social_media.png) 
 
 # Directory Structure
 
