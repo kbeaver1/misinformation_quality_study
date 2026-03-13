@@ -9,12 +9,9 @@
 
 ## Overview
 
-This is a capstone qualitative study for 
-
-This report contains the assessment and critical analysis of 594 written responses that were collected from
-99 participants via a questionnaire in Dr. Diana Daly’s pilot study, “Design of audio ads to prebunk mis-
-information and promote civil discourse”, where participants were asked the following qualitative questions
-(“QQ”):
+This is my Spring 2025 capstone project where I conducted qualitative analysis for a misinformation pilot study 
+that used experimental advertisements that could hopefully  counteract misinformation. A total of 594 written 
+responses were collected from 99 participants, who were asked the following qualitative questions (“QQ”):
 
 - **QQ1:** What are some reasons you think people are attracted to radical groups?
 - **QQ2:** What are some reasons you think people believe false ideas circulating online?
