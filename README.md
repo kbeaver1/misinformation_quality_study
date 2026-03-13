@@ -19,7 +19,7 @@ responses were collected from 99 participants, who were asked the following ques
 
 In summary, participants’ views about misinformation remained
 mostly unchanged in the written responses that were capture before and after being shown an ad, but participants' responses became longer after being
-show a visual ad vs. an audio-only ad. What was most interesting, and definitely quite unexpected, was how men and women answered Question 3, because males are 1.4 times as likely as females to tell a white lie and protect their friends, while 
+show a visual ad vs. an audio-only ad. What was most interesting was how men and women answered Question 3: It turns out that males are 1.4 times as likely as females to tell a white lie and protect their friends, while 
 females are 3.25 times as likely to tell the truth over supporting their friends. 
 
 This repository is organized as a reproducible research compendium. There are three main sources of information: 
