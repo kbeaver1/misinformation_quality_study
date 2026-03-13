@@ -11,13 +11,11 @@
 
 This is my Spring 2025 capstone project. I conducted qualitative analysis for a misinformation pilot study 
 that created and tested experimental advertisements to counteract misinformation. A total of 594 written 
-responses were collected from 99 participants, who were asked the following qualitative questions (“QQ”):
+responses were collected from 99 participants, who were asked the following questions:
 
-_**QQ1:** What are some reasons you think people are attracted to radical groups?_
-
-_**QQ2:** What are some reasons you think people believe false ideas circulating online?_
-
-_**QQ3:** Describe a situation in which supporting friends would be more important than telling the truth._
+- _What are some reasons you think people are attracted to radical groups?_
+- _What are some reasons you think people believe false ideas circulating online?_
+- _Describe a situation in which supporting friends would be more important than telling the truth._
 
 Thematic and content analysis was performed on the responses to identify common theme. Every response
 was thoroughly reviewed several times, and if the meaning of a response still could not be understood after
