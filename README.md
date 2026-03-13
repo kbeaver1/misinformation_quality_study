@@ -8,7 +8,7 @@ responses were collected from 99 participants, who were asked the following:
 2. _What are some reasons you think people believe false ideas circulating online?_
 3. _Describe a situation in which supporting friends would be more important than telling the truth._
 
-Based on a composite score that I developed, I found that participants’ views about misinformation remained
+Based on themeatic analysis and a composite score that I developed, I found that participants’ views about misinformation remained
 mostly unchanged in the written responses that were capture before and after being shown an ad, but participants' responses became longer after being
 show a visual ad vs. an audio-only ad. The most interesting responses came from Question 3 when based on gender: Males are 1.4 times as likely as females to tell a white lie and protect their friends, while 
 females are 3.25 times as likely to tell the truth over supporting their friends. 
