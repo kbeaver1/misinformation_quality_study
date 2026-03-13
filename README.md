@@ -1,8 +1,8 @@
 ## Overview
 
 This is the repo for my Spring 2025 capstone project. I conducted qualitative analysis for a misinformation pilot study 
-that created and tested audio and visual advertisements to counteract misinformation. A total of 594 written 
-responses were collected from 99 participants, who were asked the following questions:
+that created and tested audio and visual advertisements that could possibly counteract misinformation. A total of 594 written 
+responses were collected from 99 participants, who were asked the following:
 
 1. _What are some reasons you think people are attracted to radical groups?_
 2. _What are some reasons you think people believe false ideas circulating online?_
