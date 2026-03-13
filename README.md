@@ -1,6 +1,6 @@
 ## Overview
 
-This is my Spring 2025 capstone project. I conducted qualitative analysis for a misinformation pilot study 
+This is the repo for my Spring 2025 capstone project. I conducted qualitative analysis for a misinformation pilot study 
 that created and tested audio and visual advertisements to counteract misinformation. A total of 594 written 
 responses were collected from 99 participants, who were asked the following questions:
 
