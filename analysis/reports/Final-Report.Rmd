@@ -143,7 +143,7 @@ arranged_grob <- arrangeGrob(plot_control, caption, ncol = 1, heights = c(10, 1)
 grid.newpage()
 grid.draw(
   grobTree(
-    rectGrob(gp = gpar(fill = NA, col = "black", lwd = 2)),  # This adds the border
+    #rectGrob(gp = gpar(fill = NA, col = "black", lwd = 2)),  # This adds the border
     arranged_grob
   )
 )
@@ -181,7 +181,7 @@ arranged_grob <- arrangeGrob(plot_test, caption, ncol = 1, heights = c(10, 1))
 grid.newpage()
 grid.draw(
   grobTree(
-    rectGrob(gp = gpar(fill = NA, col = "black", lwd = 2)),  # This adds the border
+    #rectGrob(gp = gpar(fill = NA, col = "black", lwd = 2)),  # This adds the border
     arranged_grob
   )
 )
@@ -276,7 +276,7 @@ arranged_grob <- arrangeGrob(third_plot, caption, ncol = 1, heights = c(10, 1))
 grid.newpage()
 grid.draw(
   grobTree(
-    rectGrob(gp = gpar(fill = NA, col = "black", lwd = 2)),  # This adds the border
+    #rectGrob(gp = gpar(fill = NA, col = "black", lwd = 2)),  # This adds the border
     arranged_grob
   )
 )
@@ -339,7 +339,7 @@ arranged_grob <- arrangeGrob(fourth_plot, caption, ncol = 1, heights = c(10, 1))
 grid.newpage()
 grid.draw(
   grobTree(
-    rectGrob(gp = gpar(fill = NA, col = "black", lwd = 2)),  # This adds the border
+    #rectGrob(gp = gpar(fill = NA, col = "black", lwd = 2)),  # This adds the border
     arranged_grob
   )
 )
@@ -428,7 +428,7 @@ arranged_grob <- arrangeGrob(plot_group, caption, ncol = 1, heights = c(10, 1))
 grid.newpage()
 grid.draw(
   grobTree(
-    rectGrob(gp = gpar(fill = NA, col = "black", lwd = 2)),  # This adds the border
+    #rectGrob(gp = gpar(fill = NA, col = "black", lwd = 2)),  # This adds the border
     arranged_grob
   )
 )
@@ -511,7 +511,7 @@ arranged_grob <- arrangeGrob(plot, caption, ncol = 1, heights = c(10, 1))
 grid.newpage()
 grid.draw(
   grobTree(
-    rectGrob(gp = gpar(fill = NA, col = "black", lwd = 2)),  # This adds the border
+    #rectGrob(gp = gpar(fill = NA, col = "black", lwd = 2)),  # This adds the border
     arranged_grob
   )
 )
@@ -1011,7 +1011,7 @@ arranged_grob <- arrangeGrob(fifth_plot, caption, ncol = 1, heights = c(10, 1))
 grid.newpage()
 grid.draw(
   grobTree(
-    rectGrob(gp = gpar(fill = NA, col = "black", lwd = 2)),  # This adds the border
+    #rectGrob(gp = gpar(fill = NA, col = "black", lwd = 2)),  # This adds the border
     arranged_grob
   )
 )
