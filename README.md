@@ -17,8 +17,8 @@ females are 3.25 times as likely to tell the truth over supporting their friends
 
 ## Directory Structure
 
-This repository is organized as a reproducible research compendium. There are three main sources of information: 
+There are three main sources of information: 
 
-1. The original dataset located at analysis/data: "sketches_for_skepticism_original.xlsx"
-2. A shortened version of the above mentioned dataset used for analysis in R: "lying_data.xlsx"
-3. The R Studio file the produced the report:
+1. The original dataset located at analysis/data: "lying_data.xlsx"
+2. The R Studio file that produced the report at analysis/reports: "Final Report.Rmd"
+3. A PDF copy of the final report at analysis/reports: "Final Report.pdf"
