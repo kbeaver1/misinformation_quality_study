@@ -19,7 +19,7 @@ females are 3.25 times as likely to tell the truth over supporting their friends
 
 43% of participants spent over 2 hours on social media and 68% of all respondents said they received 68% of their news from 
 social media, whereas 28% said they received most of their news from social media, which shows that content creators who 
-spread misinformation can have a strong influence on their followers. Further analysis can be found in my report, the Directory Structure section lists the location of my report.
+spread misinformation can have a strong influence on their followers. Further analysis can be found in my report, the Directory Structure section below lists the location of my report.
 
 ![Time Spent of Social Media](analysis/reports/images/time_spent_on_social_media.png) 
 
