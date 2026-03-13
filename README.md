@@ -1,6 +1,6 @@
 # Overview
 
-This is the repo for my Spring 2025 capstone project. I conducted a qualitative analysis for a misinformation pilot study 
+This is the repo for my Spring 2025 capstone project. I conducted a mixed methods analysis for a misinformation pilot study 
 that created and tested audio and visual advertisements that could possibly counteract misinformation. A total of 594 written 
 responses were collected from 99 participants, who were asked the following:
 
