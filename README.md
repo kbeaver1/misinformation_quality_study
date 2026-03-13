@@ -19,6 +19,6 @@ females are 3.25 times as likely to tell the truth over supporting their friends
 
 There are three main sources of information: 
 
-1. The original dataset located at analysis/data: "lying_data.xlsx"
-2. The R Studio file that produced the report at analysis/reports: "Final Report.Rmd"
-3. A PDF copy of the final report at analysis/reports: "Final Report.pdf"
+1. The original dataset: "analysis/data/lying_data.xlsx"
+2. R Studio Markdown file: "analysis/reports/Final Report.Rmd"
+3. PDF of the final report: "analysis/reports/Final Report.pdf"
