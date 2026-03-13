@@ -13,7 +13,7 @@ mostly unchanged in the written responses that were capture before and after bei
 show a visual ad vs. an audio-only ad. The most interesting responses came from Question 3 when based on gender: Males are 1.4 times as likely as females to tell a white lie and protect their friends, while 
 females are 3.25 times as likely to tell the truth over supporting their friends. 
 
-![](reports/images/gender_responses_Q3.png)
+![Responses to Question 3 based on gender](reports/images/gender_responses_Q3.png)
 
 ## Directory Structure
 
