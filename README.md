@@ -1,12 +1,3 @@
-# Project compendium template
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-## A compendium of code, data, and author's manuscript accompanying the manuscript:
-
-#### TBD
-
-
 ## Overview
 
 This is my Spring 2025 capstone project. I conducted qualitative analysis for a misinformation pilot study 
