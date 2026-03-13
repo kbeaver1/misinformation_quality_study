@@ -30,5 +30,5 @@ spread misinformation can have a strong influence on their followers. Further an
 There are three main sources of information: 
 
 1. The original dataset: "analysis/data/lying_data.xlsx"
-2. R Studio Markdown file: "analysis/reports/Final Report.Rmd"
-3. PDF of the final report: "analysis/reports/Final Report.pdf"
+2. R Studio Markdown file: "analysis/reports/Final-Report.Rmd"
+3. PDF of the final report: "analysis/reports/Final-Report.pdf"
