@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 This is the repo for my Spring 2025 capstone project. I conducted qualitative analysis for a misinformation pilot study 
 that created and tested audio and visual advertisements that could possibly counteract misinformation. A total of 594 written 
@@ -15,7 +15,7 @@ females are 3.25 times as likely to tell the truth over supporting their friends
 
 ![Responses to Question 3 based on gender](analysis/images/gender_responses_Q3.png)
 
-## Directory Structure
+# Directory Structure
 
 There are three main sources of information: 
 
